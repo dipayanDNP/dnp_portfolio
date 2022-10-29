@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my Data Science Portfolio! on Dipayan Pal</title>
+    <link>https://dipayanDNP.github.io/dnp_portfolio/</link>
+    <description>Recent content in Welcome to my Data Science Portfolio! on Dipayan Pal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dipayanDNP.github.io/dnp_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://dipayanDNP.github.io/dnp_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipayanDNP.github.io/dnp_portfolio/contact/</guid>
+      <description>You can also find me on these social media platforms.
+Platform URL LinkedIn : https://www.linkedin.com/in/dipayan-pal/ Github : https://github.com/dipayanDNP </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://dipayanDNP.github.io/dnp_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipayanDNP.github.io/dnp_portfolio/about/</guid>
+      <description>Result-driven and passionate about solving real-world problems using data and state-of-the-art Data Science methods. Currently I am working as a research intern at coriolis technologies in the ML department. I am also a fifth year BS-MS student at IISER Pune.
+I have transitioned into Data Science from a physics background. Over the years, I have picked up various skills along the way. I have working proficiency in Python Programming Language.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Automating creation of multi container tracking application</title>
+      <link>https://dipayanDNP.github.io/dnp_portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipayanDNP.github.io/dnp_portfolio/post/project1/</guid>
+      <description>Skills learned: Kubernetes, Docker, Elasticsearch, Filebeat, Ansible
+Built a scalable and fault tolerant containerized tracking application capable of processing 2400000 im- ages per day obtained from CCTV cameras using kubernetes. Deployed various dependencies and deep learning models required to make the system functional. Automated the entire process end-to-end using ansible which reduced time for the entire process by 3 hours. Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Preparing a Anomaly detection system</title>
+      <link>https://dipayanDNP.github.io/dnp_portfolio/post/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipayanDNP.github.io/dnp_portfolio/post/project2/</guid>
+      <description>Skills learned: Python, Apache Spark, Pyspark, Scikit-learn
+Worked with Apache Spark to access of around 10 TBs of unprocessed data about DESY system failure. Prepared and transformed the data using Pyspark module to be used for analysis. Built a Logistic Regression algorithm using scikit-learn to serve as a basic Anomaly detection algorithm with 85% accuracy. Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Constraining Effective Field Theories using ML algorithms</title>
+      <link>https://dipayanDNP.github.io/dnp_portfolio/post/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dipayanDNP.github.io/dnp_portfolio/post/project3/</guid>
+      <description>Skills learned: Python, Tensorflow, Keras, Supercomputer, Madgraph
+Received, cleaned and prepearedd around 200MB of simulated data using pandas and scikit-learn. Developed an algorithm capable of selecting the best ML model capable of transforming the simulated into gaussian distribution using the RealNVP model. </description>
+    </item>
+    
+  </channel>
+</rss>
